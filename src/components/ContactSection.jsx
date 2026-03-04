@@ -86,7 +86,7 @@ export const ContactSection = () => {
                 <div>
                   <h4 className="font-medium"> Phone</h4>
                   <a
-                    href="tel:+963940053775"
+                    href="tel:+963980296722"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
                     +963 94 0053775
